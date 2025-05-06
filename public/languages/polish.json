@@ -1,0 +1,109 @@
+{
+  "services": "Usługi",
+  "about": "O mnie",
+  "reviews": "Opinie",
+  "whyMe": "Dlaczego ja?",
+  "contacts": "Kontakt",
+  "coffee": "Kup kawę",
+  "intro": {
+    "GoodDay": "Dzień dobry",
+    "MyNameis": "Mam na imię",
+    "name": "Anna Pruszyńska",
+    "Iam": "jestem specjalistką w dziedzinie",
+    "specialization": "legalizacji cudzoziemców we Wrocławiu"
+  },
+  "uslugi": {
+    "pobyt": {
+      "name": "Karta Pobytu i Rezydenta",
+      "items": [
+        {
+          "name": "pełne i częściowe wsparcie - Wrocław, Warszawa, Poznań",
+          "price": "od 900 zł"
+        },
+        {
+          "name": "przyspieszenie sprawy dotyczącej karty pobytu",
+          "price": "od 200 zł"
+        },
+        {
+          "name": "przewodnik 'Jak napisać pismo do urzędu w sprawie przyspieszenia karty pobytu'",
+          "price": "40 zł"
+        }
+      ]
+    },
+    "citizenship": {
+      "title": "Obywatelstwo",
+      "name": "pełne i częściowe wsparcie - Wrocław, Warszawa, Poznań",
+      "price": "od 900 zł"
+    },
+    "translation": {
+      "name": "Usługi konwersacyjne i tłumaczeniowe",
+      "items": [
+        {
+          "name": "pomoc w urzędzie",
+          "price": "od 100 zł/godz."
+        },
+        {
+          "name": "bank, przedszkole/szkoła",
+          "price": "od 100 zł/godz."
+        },
+        {
+          "name": "do lekarza",
+          "price": "od 100 zł/godz."
+        }
+      ]
+    },
+    "documents": {
+      "name": "Dokumenty i wnioski",
+      "items": [
+        {
+          "name": "składanie wniosków o świadczenia dla dzieci (800+, 300+)",
+          "price": "od 250 zł"
+        },
+        {
+          "name": "tworzenie i tłumaczenie na język polski CV",
+          "price": "od 200 zł"
+        },
+        {
+          "name": "rozliczanie rocznych deklaracji podatkowych PIT",
+          "price": "od 80 zł"
+        }
+      ]
+    },
+    "other": {
+      "name": "Inne usługi",
+      "items": [
+        {
+          "name": "załatwianie meldunku",
+          "price": "od 200 zł"
+        },
+        {
+          "name": "uzyskanie numeru PESEL",
+          "price": "od 200 zł"
+        },
+        {
+          "name": "otwarcie konta bankowego",
+          "price": "od 200 zł"
+        }
+      ]
+    }
+  },
+  "aboutMe": {
+    "title": "O mnie",
+    "text1": "W Polsce mieszkam od ponad 11 lat. Ukończyłam państwową uczelnię wyższą we Wrocławiu.",
+    "text2": "Moja wiedza opiera się przede wszystkim na wieloletnim osobistym doświadczeniu w pracy z urzędami we Wrocławiu, Poznaniu i Warszawie, bez którego zawód specjalisty ds. legalizacji nie byłby możliwy.",
+    "text3": "A także na szkoleniach i podnoszeniu kwalifikacji u czołowych specjalistów w dziedzinie legalizacji w Polsce."
+  },
+  "review": {
+    "title": "Opinie"
+  },
+  "contact": {
+    "title": "Jak się skontaktować?",
+    "workTime": "Godziny pracy: pon.-pt. 9:00-16:00",
+    "tel": "555-55-55",
+    "telegram": "@ania",
+    "email": "ania@gmail.com",
+    "instagram": "@ania",
+    "virtualOffice": "Wirtualne biuro we Wrocławiu (wizyty domowe, w siedzibie firmy, spotkania w coworkingu)"
+
+  }
+}
